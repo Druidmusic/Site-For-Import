@@ -4,4 +4,8 @@ tmp/
 Thumbs.db
 *.DS_Store
 NeuroStartUp.png_backup
+<<<<<<< HEAD
 index.html_old
+=======
+index.html_old
+>>>>>>> 071e196440ebc47365df3ad920b3eec709aa21e7
